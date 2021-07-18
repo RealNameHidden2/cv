@@ -10,7 +10,20 @@ hr{
 }
 h1{
   color: #053742;
+  font-family: Arizonia;
+  font-size: 65px;
 }
 h3{
   color: #39A2DB;
+  font-family: Sofia;
+  font-size: 25px;
+}
+ul{
+  font-size: 18px;
+}
+table{
+  font-size: 18px;
+}
+li{
+  font-size: 18px;
 }
